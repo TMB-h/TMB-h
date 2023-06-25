@@ -1,5 +1,6 @@
 ### Hi there 👋
-🔭 I’m currently working on getting a personal blog setup through GitHub
+🔭 I’m currently working on getting a personal blog set up through GitHub
+<br>
 🌱 I’m currently learning Python and R for data analysis, as well as programming basics
 
 <!--
