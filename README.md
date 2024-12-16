@@ -1,7 +1,10 @@
 ### Hi there 👋
-🔭 I’m currently working on getting a personal blog set up through GitHub
 <br>
 🌱 I’m currently learning Python and R for data analysis, as well as programming basics
+<br>
+💬 Ask me about Sports Analytics
+<br>
+📫 LinkedIn: https://www.linkedin.com/in/tristan-barquin/
 
 <!--
 **TMB-h/TMB-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
